@@ -6,7 +6,7 @@ nav_order: 1
 
 # CLP – A Headless Calendar Engine. 
 > **Funding Proposal – Early Stage Concept**  
-> This page presents an early-stage proposal for **CLP**, an open-source, headless calendar engine designed to support European values of openness, privacy, and interoperability.  
+> This page presents an early-stage proposal for **CLP**, an open-source, headless calendar engine designed to support European values of openness, **GDPR** compliance, privacy, and interoperability.  
 
 ---
 
