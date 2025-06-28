@@ -4,29 +4,32 @@ layout: home
 nav_order: 1 
 ---
 
-
-# Chronopipe – A Modular Headless Calendar Platform
-
-> *A developer-first, headless calendar platform for seamless integration across applications.*
-
----
-
-## 🧱 What Is Chronopipe?
-
-Chronopipe is a modular, headless calendar platform designed for developers. It provides a powerful TCP-based protocol for calendar and event management, along with a license server, language-specific client libraries, and reference apps.
-
-You can integrate it into any stack — no frontend or storage lock-in.
+# CLP – A Headless Calendar Engine. 
+> **Funding Proposal – Early Stage Concept**  
+> This page presents an early-stage proposal for **CLP**, an open-source, headless calendar engine designed to support European values of openness, privacy, and interoperability.  
 
 ---
 
-## 🏗️ Architecture Overview
+## What Is CLP?
 
-Chronopipe consists of:
+CLP is a modular, headless, GDPR compliant, calendar backend designed to be integrated into modern applications.
 
-- **Calendar Server (clp_tcp)** – Command-based TCP interface
-- **License App (cp_host)** – Billing, keys, account handling
-- **Ruby Client Gem** – TCP wrapper for easy use in Ruby
-- **Demo App (Lumina)** – Rails app showing real-world usage
-- **Dockerized Services** – Easy to run locally or in production
-- **Postgres DB** – Durable storage
-- **CI/CD** – Automated deployments via GitHub Actions
+It exposes a simple command-based protocol for managing calendars, events, and availability — similar in spirit to how systems like Redis or MinIO provide a structured interface for external clients.
+
+CLP is not a calendar API, UI component, or file format like iCalendar or WebCal. Instead, it is a backend engine with a command-based protocol that defines how calendar functionality is structured and accessed. While support for standards like iCalendar could be added in the future, CLP focuses on behavior and system design — not data serialization or external API compatibility.
+
+## Who Is It For
+
+SaaS providers and software projects that require robust, full-featured calendar functionality as part of their core offering.
+
+Developers, system architects, and product teams looking for a backend-first calendar engine they can fully control and integrate into their infrastructure.
+
+## Why CLP?
+
+Most calendar infrastructure is built into closed platforms — tightly coupled to proprietary APIs, limited in flexibility, and deeply integrated with the vendor’s data ecosystem. This leaves developers with little control, users with limited data ownership, and organizations dependent on opaque third-party services.
+
+CLP is built as an independent, backend-first alternative. The goal is to provide a standalone calendar engine that can be deployed anywhere, extended as needed, and integrated directly into existing systems — without giving up ownership, transparency, or technical control.
+
+Where CalDAV defines a protocol and leaves the implementation to developers, CLP provides a ready-to-use backend and client libraries — so integration is immediate and implementation overhead is minimal.
+
+
