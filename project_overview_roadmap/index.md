@@ -9,9 +9,9 @@ has_children: true
 
 # Project Overview & Roadmap
 
-This page outlines the broader scope of the CLP project — not just as a backend calendar engine, but as a fully-fledged open infrastructure stack for calendar functionality.
+This page outlines the broader scope of the Sweet-Date project — not just as a backend calendar engine, but as a fully-fledged open infrastructure stack for calendar functionality.
 
-CLP aims to provide a complete, developer-first foundation for calendar systems, including a protocol definition format, CLI tooling, language-specific clients, hosted services, and supporting documentation. This roadmap is intended to guide development, coordinate contributions, and support funding efforts.
+Sweet-Date aims to provide a complete, developer-first foundation for calendar systems, including a protocol definition format, CLI tooling, language-specific clients, hosted services, and supporting documentation. This roadmap is intended to guide development, coordinate contributions, and support funding efforts.
 
 ---
 
@@ -19,14 +19,14 @@ CLP aims to provide a complete, developer-first foundation for calendar systems,
 
 | Component           | Description                                                                | Status        |
 | ------------------- | -------------------------------------------------------------------------- | ------------- |
-| Calendar Engine     | The core headless backend for managing calendars, events, and availability | ✅ POC exists  |
-| Protocol Definition | YAML-based schema for defining calendar commands and structures            | 🟡 In progress |
-| CLI Tool            | Command-line interface that generates client libraries from protocol files | 🟡 In progress |
-| Language Clients    | Ruby (working), Elixir (planned), others via CLI scaffolding               | 🔜 Planned     |
-| Hosted Demo Server  | Public-facing instance of the backend for testing                          | 🔜 Planned     |
-| Access Key System   | Lightweight key registration system for demo/test access                   | 🔜 Planned     |
-| Documentation Site  | Jekyll-based site for all developer and funder documentation               | ✅ In place    |
-| DevOps Tooling      | CI/CD setup, Docker services, and deploy automation                        | 🟡 In progress |
+| Calendar Engine     | The core headless backend for managing calendars, events, and availability |   POC exists  |
+| Protocol Definition | YAML-based schema for defining calendar commands and structures            |   In progress |
+| CLI Tool            | Command-line interface that generates client libraries from protocol files |   In progress |
+| Language Clients    | Ruby (working), Elixir (planned), others via CLI scaffolding               |   Planned     |
+| Hosted Demo Server  | Public-facing instance of the backend for testing                          |   Planned     |
+| Access Key System   | Lightweight key registration system for demo/test access                   |   Planned     |
+| Documentation Site  | Jekyll-based site for all developer and funder documentation               |   In place    |
+| DevOps Tooling      | CI/CD setup, Docker services, and deploy automation                        |   In progress |
 
 ---
 
