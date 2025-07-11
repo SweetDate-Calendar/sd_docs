@@ -1,4 +1,4 @@
-# clp-calendar documents
+# SweetDate calendar documents
 
 ### Start server
 ```
