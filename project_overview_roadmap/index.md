@@ -9,9 +9,9 @@ has_children: true
 
 # Project Overview & Roadmap
 
-This page outlines the broader scope of the Sweet-Date project — not just as a backend calendar engine, but as a fully-fledged open infrastructure stack for calendar functionality.
+This page outlines the broader scope of the SweetDate project — not just as a backend calendar engine, but as a fully-fledged open infrastructure stack for calendar functionality.
 
-Sweet-Date aims to provide a complete, developer-first foundation for calendar systems, including a protocol definition format, CLI tooling, language-specific clients, hosted services, and supporting documentation. This roadmap is intended to guide development, coordinate contributions, and support funding efforts.
+SweetDate aims to provide a complete, developer-first foundation for calendar systems, including a protocol definition format, CLI tooling, language-specific clients, hosted services, and supporting documentation. This roadmap is intended to guide development, coordinate contributions, and support funding efforts.
 
 ---
 

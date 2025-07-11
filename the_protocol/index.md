@@ -5,17 +5,17 @@ layout: home
 has_children: true
 ---
 
-# The Sweet-Date Protocol
+# The SweetDate Protocol
 
-The Sweet-Date protocol defines how clients interact with the calendar engine — not through a traditional REST API or static file format, but through a shared, language-agnostic YAML specification.
+The SweetDate protocol defines how clients interact with the calendar engine — not through a traditional REST API or static file format, but through a shared, language-agnostic YAML specification.
 
 This protocol serves as the foundation for generating client libraries, implementing backend logic, and ensuring consistency across implementations.
 
 ---
 
-## What Is the Sweet-Date Protocol?
+## What Is the SweetDate Protocol?
 
-At the core of Sweet-Date is a protocol definition written in YAML. It describes:
+At the core of SweetDate is a protocol definition written in YAML. It describes:
 
 - Namespaces (e.g. `CALENDARS`, `EVENTS`, `AVAILABILITY`)
 - Commands within each namespace (e.g. `CREATE`, `DELETE`, `FIND_SLOTS`)
@@ -75,7 +75,7 @@ Future plans include a structured RFC (Request for Comments) process for communi
 
 ---
 
-## How the Protocol Is Used in Sweet-Date
+## How the Protocol Is Used in SweetDate
 
 - The CLI tool consumes the YAML file to generate client code in supported languages
 - The calendar engine uses the same definitions to enforce request validation and routing

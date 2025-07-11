@@ -7,7 +7,7 @@ has_children: true
 
 # Governance & Community
 
-Sweet-Date is an effort to explore a shared, open approach to calendar infrastructure. 
+SweetDate is an effort to explore a shared, open approach to calendar infrastructure. 
 It is intended as a practical foundation that prioritizes transparency, collaboration, and long-term maintainability.
 
 This page outlines how the project is maintained, how decisions are made, and how contributors and stakeholders can get involved.
@@ -17,7 +17,7 @@ This page outlines how the project is maintained, how decisions are made, and ho
 
 ## Project Stewardship
 
-At this stage, Sweet-Date is maintained by the original project author, with the intention to grow into a more structured core team as the ecosystem develops.
+At this stage, SweetDate is maintained by the original project author, with the intention to grow into a more structured core team as the ecosystem develops.
 
 Potential roles over time may include:
 
@@ -31,11 +31,11 @@ Potential roles over time may include:
 
 ## How Changes Are Proposed
 
-Changes to Sweet-Date — including the backend engine, protocol definitions, CLI tooling, and client libraries — follow a structured, versioned process to maintain stability and ensure long-term maintainability.
+Changes to SweetDate — including the backend engine, protocol definitions, CLI tooling, and client libraries — follow a structured, versioned process to maintain stability and ensure long-term maintainability.
 
 ### Versioning
 
-- Sweet-Date follows [Semantic Versioning](https://semver.org/) (e.g., `0.2.0`, `1.0.0`)
+- SweetDate follows [Semantic Versioning](https://semver.org/) (e.g., `0.2.0`, `1.0.0`)
 - Backwards-incompatible changes require a major version bump
 - The protocol definition and CLI generators are versioned independently of the backend
 
@@ -55,23 +55,23 @@ All version tags and changelogs are tracked in Git for reproducibility and publi
 
 ## Open Source Commitment
 
-Sweet-Date is committed to being fully open-source and community-accessible from the ground up.
+SweetDate is committed to being fully open-source and community-accessible from the ground up.
 
 ### Key Principles
 
 - **Permissive Licensing** – All components (backend, protocol definitions, CLI, clients) will be released under permissive licenses such as MIT or Apache 2.0.
 - **Public Infrastructure** – The protocol specification, tooling, roadmap, and discussions will be hosted openly on GitHub.
-- **No Vendor Lock-in** – Sweet-Date is designed to run in any environment — local, cloud, or hybrid — without dependence on a central service.
+- **No Vendor Lock-in** – SweetDate is designed to run in any environment — local, cloud, or hybrid — without dependence on a central service.
 - **Transparency** – All changes, releases, and architectural decisions are tracked publicly and open to discussion.
-- **Long-Term Sustainability** – Sweet-Date encourages contributions, forks, and commercial use, supporting a healthy open ecosystem.
+- **Long-Term Sustainability** – SweetDate encourages contributions, forks, and commercial use, supporting a healthy open ecosystem.
 
-These principles guide both the technical implementation and the broader community strategy, ensuring that Sweet-Date remains a trusted and adaptable foundation for calendar infrastructure.
+These principles guide both the technical implementation and the broader community strategy, ensuring that SweetDate remains a trusted and adaptable foundation for calendar infrastructure.
 
 ---
 
 ## How to Get Involved
 
-Sweet-Date is in an early but active phase of development, and contributions are welcome at all levels — from testing and feedback to protocol ideas and client library development.
+SweetDate is in an early but active phase of development, and contributions are welcome at all levels — from testing and feedback to protocol ideas and client library development.
 
 ### Ways to Contribute
 
@@ -88,4 +88,4 @@ Sweet-Date is in an early but active phase of development, and contributions are
 - [Issue Tracker](#) – report bugs, request features, and track progress
 - [Mailing list or chat (TBD)] – planned for future coordination and planning
 
-If you're building something on top of Sweet-Date or want to help shape the roadmap, we’d love to hear from you.
+If you're building something on top of SweetDate or want to help shape the roadmap, we’d love to hear from you.

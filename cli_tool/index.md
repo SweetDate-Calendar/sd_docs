@@ -5,9 +5,9 @@ layout: home
 has_children: true
 ---
 
-# Sweet-Date CLI Tool
+# SweetDate CLI Tool
 
-The Sweet-Date CLI is a command-line tool that automates the generation of client libraries and scaffolding based on the shared protocol definition.
+The SweetDate CLI is a command-line tool that automates the generation of client libraries and scaffolding based on the shared protocol definition.
 
 By consuming a YAML file that defines the calendar protocol, the CLI can generate consistent, idiomatic code for different programming languages — reducing boilerplate, eliminating errors, and accelerating integration.
 
