@@ -58,7 +58,7 @@ Sweet-Date aims to provide a complete, developer-first foundation for calendar s
 
 ## How to Contribute or Support
 
-We welcome contributors, testers, and funders interested in open infrastructure for time-based systems. If you want to:
+We welcome contributors, testers, and founders interested in open infrastructure for time-based systems. If you want to:
 
 - Propose features or improvements
 - Help implement a client in your favorite language
