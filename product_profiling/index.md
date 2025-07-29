@@ -1,19 +1,19 @@
 ---
 title: Product Profiling
-parent: Business
+nav_order: 10 
+# parent: Business
 layout: home
-nav_order: 2
 ---
 
-# Chronopipe vs. Competitors: Product Profiling
+# SweetDate vs. Competitors: Product Profiling
 
-## 🧭 Goal
+## Goal
 
-Identify a strategic niche for Chronopipe by comparing its strengths and positioning against calendar infrastructure competitors.
+Identify a strategic niche for SweetDate by comparing its strengths and positioning against calendar infrastructure competitors.
 
 ---
 
-## 🔍 Key Competitors
+## Key Competitors
 
 ### 1. Nylas
 - **Focus:** Unified API for email, calendar, contacts (Google, Outlook, Exchange)
@@ -69,9 +69,9 @@ Identify a strategic niche for Chronopipe by comparing its strengths and positio
 
 ---
 
-## 🧱 Chronopipe Positioning
+## SweetDate Positioning
 
-### 🔑 Unique Strengths
+### Unique Strengths
 
 - Headless, self-hostable, and open-source  
 - Elixir-based: scalable and fault-tolerant  
@@ -87,7 +87,7 @@ Identify a strategic niche for Chronopipe by comparing its strengths and positio
 - Fully own your data  
 - Built for SaaS teams who want calendar power without lock-in  
 
-### 🎯 Ideal Use Cases
+### Ideal Use Cases
 
 - Founders building SaaS with scheduling or events  
 - Internal tools for HR, coaching, wellness  
@@ -96,7 +96,7 @@ Identify a strategic niche for Chronopipe by comparing its strengths and positio
 
 ---
 
-## ✅ Niche Summary
+## Niche Summary
 
 | Platform       | Ownable | Hosted | Open Source | Developer Focus   | Calendar Sync | Scheduling UX | Target Audience            |
 | -------------- | ------- | ------ | ----------- | ----------------- | ------------- | ------------- | -------------------------- |
@@ -105,13 +105,13 @@ Identify a strategic niche for Chronopipe by comparing its strengths and positio
 | Aurinko        | ✅       | ❌      | ✅           | ✅ Developers      | ❌             | ❌             | Indie, OSS-friendly        |
 | FreeBusy       | ❌       | ✅      | ❌           | ❌ UI-first        | ✅             | ✅             | B2B calendar automation    |
 | Chili Piper    | ❌       | ✅      | ❌           | ❌ Sales/CRM       | ✅             | ✅             | Sales teams + conversions  |
-| **Chronopipe** | ✅       | ✅      | ✅           | ✅ Full stack devs | 🟡 Future      | ❌ (not core)  | SaaS builders, custom apps |
+| **SweetDate**  | ✅       | ✅      | ✅           | ✅ Full stack devs | 🟡 Future      | ❌ (not core)  | SaaS builders, custom apps |
 
 ---
 
 ## 🧠 Next Steps
 
-- Emphasize Chronopipe’s developer-first, own-your-data approach  
+- Emphasize SweetDate's developer-first, own-your-data approach  
 - Build adapters for Google, iCal, and CalDAV to compete on sync  
-- Create demos that show how easily Chronopipe can replace Nylas/Cronofy in SaaS setups  
+- Create demos that show how easily SweetDate can replace Nylas/Cronofy in SaaS setups  
 - Publish side-by-side comparisons to win trust with developers  
