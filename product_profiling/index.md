@@ -6,6 +6,7 @@ layout: home
 ---
 
 # SweetDate vs. Competitors: Product Profiling
+> *This report was generated using ChatGPT.*
 
 ## Goal
 
