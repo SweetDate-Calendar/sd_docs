@@ -5,42 +5,38 @@ nav_order: 2
 has_children: true
 ---
 
-
 # What to read.
 > *Depending on your interests and role, different sections will be most relevant to you.*
 
-
-### [Overview and Roadmap](../project_overview_roadmap)
+### Overview and Roadmap
 *Stakeholders and developers*
 
-### [Funding & Sustainability](../funding_and_sustainability)
+### Funding & Sustainability
 *Investors and project stakeholders*
 
-### [Hosted Services](../hosted_services)
+### Hosted Services
 *Investors and project stakeholders*
 
-### [The SweetDate Protocol](../sweetdate_protocol)
+### The SweetDate Protocol
 *For API users, developers and partners*
 
-### [SweetDate CLI Tool](../sweetdate_cli_tool)
+### SweetDate CLI Tool
 *Software developers and architects*
 
-### [Client Libraries](../client_libraries)
+### Client Libraries
 *Software developers and architects*
 
-### [System Architecture](../system_architecture)
+### System Architecture
 *Software developers and architects*
 
-### [Open Source & Community](../open_source_and_community)
+### Open Source & Community
 *Stakeholders and Open-Source Contributors*
 
-### [Other Creation Tools/CMS](../other_creation_tools)
+### Other Creation Tools/CMS
 *Investors and project stakeholders*
 
-### [Customer Willingness to Pay](../customer_willingness)
+### Customer Willingness to Pay
 *Investors and project stakeholders*
 
-### [Product Profiling](../product_profiling)
+### Product Profiling
 *Investors and project stakeholders*
-
-
