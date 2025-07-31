@@ -1,7 +1,7 @@
 ---
-title: Project Overview & Roadmap
+title: Overview & Roadmap
 layout: home
-nav_order: 2
+nav_order: 3
 has_children: true
 ---
 

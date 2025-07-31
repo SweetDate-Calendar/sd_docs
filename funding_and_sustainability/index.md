@@ -1,6 +1,6 @@
 ---
 title: Funding & Sustainability 
-nav_order: 8
+nav_order: 3 
 layout: home
 has_children: true
 ---

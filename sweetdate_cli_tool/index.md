@@ -1,6 +1,6 @@
 ---
-title: CLI tool 
-nav_order: 5
+title: SweetDate CLI tool 
+nav_order: 6
 layout: home
 has_children: true
 ---

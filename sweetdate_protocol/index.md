@@ -1,13 +1,13 @@
 ---
-title: The Protocol
-nav_order: 4
+title: SweetDate Protocol
+nav_order: 5
 layout: home
 has_children: true
 ---
 
-# The SweetDate Protocol
+# SweetDate Protocol
 
-The SweetDate protocol defines how clients interact with the calendar engine — not through a traditional REST API or static file format, but through a shared, language-agnostic YAML specification.
+SweetDate protocol defines how clients interact with the calendar engine — not through a traditional REST API or static file format, but through a shared, language-agnostic YAML specification.
 
 This protocol serves as the foundation for generating client libraries, implementing backend logic, and ensuring consistency across implementations.
 

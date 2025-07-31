@@ -1,6 +1,6 @@
 ---
 title: Customer Willingness to Pay
-nav_order: 12 
+nav_order: 11 
 # parent: Business
 layout: home
 ---

@@ -1,12 +1,12 @@
 ---
 title: Product Profiling
-nav_order: 10 
+nav_order: 12 
 # parent: Business
 layout: home
 ---
 
 # SweetDate vs. Competitors: Product Profiling
-> *This report was generated using ChatGPT.*
+> **This report was generated using ChatGPT.*
 
 ## Goal
 

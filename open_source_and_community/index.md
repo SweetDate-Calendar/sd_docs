@@ -1,11 +1,11 @@
 ---
-title: Governance & Community 
-nav_order: 8
+title: Open Source & Community 
+nav_order: 9
 layout: home
 has_children: true
 ---
 
-# Governance & Community
+# Open Source & Community
 
 SweetDate is an effort to explore a shared, open approach to calendar infrastructure. 
 It is intended as a practical foundation that prioritizes transparency, collaboration, and long-term maintainability.
