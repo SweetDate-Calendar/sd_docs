@@ -11,8 +11,11 @@ has_children: true
 ### Overview and Roadmap
 *Stakeholders and developers*
 
-### Funding & Sustainability
-*Investors and project stakeholders*
+### Onboarding
+*Developers*
+
+<!-- ### Funding & Sustainability
+*Investors and project stakeholders* -->
 
 ### Hosted Services
 *Investors and project stakeholders*
