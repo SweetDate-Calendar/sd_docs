@@ -16,7 +16,7 @@ Welcome! This page covers the prerequisites and how to get set up to work on Swe
 
 1. **Project overview & GitHub repositories**  
    → See how the project is structured and where each repo lives.  
-   [Read more »](/onboarding/project-overview)
+   [Read more »]({{ site.baseurl }}/onboarding/project-overview)
 
 2. **Install the SweetDate Docker container**  
    → Run SweetDate locally for app development and testing.  

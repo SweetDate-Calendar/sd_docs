@@ -2,7 +2,7 @@
 title: SDIP
 layout: home
 nav_order: 2
-has_children: true
+parent: Onboarding
 ---
 
 # SweetDate Implementaion Protocol
