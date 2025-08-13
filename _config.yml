@@ -8,3 +8,6 @@ plugins:
 
 url: https://sweetdate-calendar.github.io
 baseurl: /sd_docs
+
+aux_links:
+  Github Repository: https://github.com/SweetDate-Calendar/
