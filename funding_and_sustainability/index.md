@@ -1,9 +1,9 @@
----
+<!-- ---
 title: Funding & Sustainability 
 nav_order: 3 
 layout: home
 has_children: true
----
+--- -->
 # Funding Supports and How the Project Will Grow
 
 ##  What the Initial Funding Supports
