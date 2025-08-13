@@ -6,7 +6,7 @@ parent: Onboarding
 ---
 
 # Project overview
-![Development diagram](/assets/images/onboarding.svg)
+![Development diagram]({{ site.baseurl }}/assets/images/onboarding.svg)
 
 ---
 
